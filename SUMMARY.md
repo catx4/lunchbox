@@ -8,4 +8,3 @@
 * [Coffee](coffee.md)
 * [Tea](tea.md)
 * [Restaurant](restaurant.md)
-* [Sweet](sweet.md)
