@@ -1,4 +1,3 @@
-My Awesome Book
-=======
+# Summary
+Many stores on the list located in Neihu, but we also collect some store we love in other area. 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
